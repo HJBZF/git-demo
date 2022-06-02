@@ -1,1 +1,2 @@
 第二个文件，测试多个文件一起提交
+git add hello.txt secont.txt是方式一
